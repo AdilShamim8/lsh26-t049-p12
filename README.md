@@ -7,7 +7,7 @@ Solution for **LofiStack Hackathon 2026 — P12 (Personal Ledger Manager)**
 - **Team:** `ReWoo`
 - **Team ID:** `LSH26-T049`
 - **Problem:** `P12 — Personal Ledger Manager (expense ledger · receipt-OCR review flow · forecasting · savings pockets)`
-- **Live application:** <https://preview-db913ad5-c63b-4e0a-ab0d-cc2b467ebc79.space-z.ai/>
+- **Live application:** <https://lsh26-t049-p12.space-z.ai/>
 - **Demo video:** not supplied (optional per rules)
 
 > Judges will evaluate only the exact commit SHA entered in the Final Submission Form.
